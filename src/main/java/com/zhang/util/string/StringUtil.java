@@ -1,4 +1,4 @@
-package com.nsfc.framework.util.string;
+package com.zhang.util.string;
 
 /**
  * 字符串工具类.

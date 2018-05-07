@@ -1,8 +1,4 @@
-package com.nsfc.framework.common;
-
-import java.math.BigDecimal;
-import java.util.Date;
-import java.util.Properties;
+package com.zhang.common;
 
 /**
  * 一般常量类

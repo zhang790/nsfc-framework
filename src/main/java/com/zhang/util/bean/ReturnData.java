@@ -1,6 +1,6 @@
-package com.nsfc.framework.util.bean;
+package com.zhang.util.bean;
 
-import com.nsfc.framework.util.string.StringUtil;
+import com.zhang.util.string.StringUtil;
 
 import java.util.HashMap;
 import java.util.Map;
